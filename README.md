@@ -2,16 +2,16 @@
 
 ## Personal Information
 
-- **Name:** Your Name
-- **Username:** YourUsername
-- **Date of Birth:** Your Date of Birth
-- **Location:** Your City, Country
+- **Name:** sasaamild
+- **Username:** sasaamild
+- **Date of Birth:** 10 april 2008
+- **Location:** yogyakarta, indonesia
 
 ## Education
 
-- **Degree:** Your Degree
-- **School/University:** Name of School/University
-- **Graduation Year:** Year of Graduation
+- **Degree:** student
+- **School/University:** senior high school
+  
 
 ## Skills
 
