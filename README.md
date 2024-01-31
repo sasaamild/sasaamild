@@ -1,16 +1,33 @@
-### Hi there 👋
+# Biodata
 
-<!--
-**sasaamild/sasaamild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Information
 
-Here are some ideas to get you started:
+- **Name:** Your Name
+- **Username:** YourUsername
+- **Date of Birth:** Your Date of Birth
+- **Location:** Your City, Country
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **Degree:** Your Degree
+- **School/University:** Name of School/University
+- **Graduation Year:** Year of Graduation
+
+## Skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+
+## Contact
+
+- **Email:** your.email@example.com
+- **GitHub:** [YourUsername](https://github.com/YourUsername)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+
+## Interests
+
+- Interest 1
+- Interest 2
+- Interest 3
+
